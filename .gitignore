@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Bazel
+/bazel-2020-codejam
+/bazel-bin
+/bazel-out
+/bazel-testlogs
